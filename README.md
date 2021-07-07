@@ -1,7 +1,7 @@
 # YT-Videos
 
 This is the Git repository for the my <a href="https://www.youtube.com/watch?v=R31h1pXnNgE&list=PLFgndomPhYtll8OUExJxFHfpLR53gvT01">tutorial series on Youtube</a>. The series provides a set of tutorial videos on how to build an Oscilloscope Command-Line Tool using python. 
-The uses python's standard socket library to create client-server system where the server emulates an Oscilloscope device and the client side interface (developed with Tkinter GUI)
+The project uses python's standard socket library to create client-server system where the server emulates an Oscilloscope device and the client side interface (developed with Tkinter GUI)
 is used to send SCPI commands to the Oscilloscope server, and the server provides the expected result.
 
 The series covers the following topics and more:
